@@ -1,0 +1,24 @@
+2014-04-25T17:09:58.895Z - debug: Listening on port: 8080
+2014-04-25T17:09:58.895Z - trace: Go get 'em
+2014-04-28T20:50:51.842Z - debug: Listening on port: 8081
+2014-04-28T20:50:51.842Z - trace: Go get 'em
+2014-04-28T20:52:29.330Z - debug: Listening on port: 8081
+2014-04-28T20:52:29.331Z - trace: Go get 'em
+2014-04-28T20:53:00.471Z - debug: Listening on port: 8081
+2014-04-28T20:53:00.472Z - trace: Go get 'em
+2014-04-29T23:38:31.228Z - debug: Listening on port: 8081
+2014-04-29T23:38:31.229Z - trace: Go get 'em
+2014-04-30T04:27:55.802Z - debug: Listening on port: 4044
+2014-04-30T04:29:31.327Z - debug: Listening on port: 4044
+2014-04-30T04:31:19.252Z - debug: Listening on port: 4044
+2014-04-30T04:31:32.232Z - debug: Listening on port: 4044
+2014-04-30T04:31:37.991Z - error: Exit Being Called 1
+2014-04-30T04:32:56.039Z - debug: Listening on port: 4044
+2014-04-30T04:33:01.477Z - error: Exit Being Called 1
+2014-04-30T04:33:45.635Z - debug: Listening on port: 4044
+2014-04-30T04:33:48.423Z - error: Exit Being Called 1
+2014-04-30T04:34:40.550Z - debug: Listening on port: 4044
+2014-04-30T04:34:51.979Z - error: Exit Being Called 1
+2014-04-30T04:35:07.451Z - debug: Listening on port: 4044
+2014-04-30T04:35:21.967Z - error: Exit Being Called 1
+2014-04-30T04:35:53.180Z - debug: Listening on port: 4044
