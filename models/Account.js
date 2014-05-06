@@ -43,7 +43,8 @@ Account.prototype.saveToDb = function(onSuccess) {
         if (err) throw err;
 
         that.accountId = result.insertId;
-        if(onSuccess) {
+        logger.debug("A new account has been created. Account ID = " + result.insertId);
+        if (onSuccess) {
             onSuccess(that);
         }
     });

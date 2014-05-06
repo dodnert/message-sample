@@ -70,7 +70,7 @@ app.use(express.urlencoded());
 //All routing defined in here
 controllers.set(app);
 
-var port = process.env.PORT || 4044;
+var port = process.env.PORT || 8044;
 app.listen(port);
 
 logger.debug("Listening on port: " + port);
